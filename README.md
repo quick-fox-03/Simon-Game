@@ -1,5 +1,6 @@
 # Simon-Game
 This is a repository containing files and assets of virtual Simon game.
+You can try it out here : https://quick-fox-03.github.io/Simon-Game/
 
 Simon is an electronic game of short-term memory skill invented by Ralph H. Baer and Howard J. Morrison. The game involves the player in remembering a sequence of colours and pressing colours in that sequence, ending the game if the player gets the sequence wrong, otherwise adding one more colour to the sequence in each turn.
 
